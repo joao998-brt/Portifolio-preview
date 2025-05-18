@@ -1,2 +1,2 @@
-# Portifolio-preview
-atividade 12 referente a aula de programação web responsiva do professor Marcelo I Loyola
+# Portifólio
+nessa atividade faremos um portifólio-exemplo, na linguagem html, e usando os designs vistos em aula, essa atividade se refere à lista 12
